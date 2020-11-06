@@ -1,4 +1,4 @@
 # code the #greeting method here!
-def greeting(HAL)
-  puts "Hi! I'm HAL, what's your name?"
+def greeting(name)
+  puts "Hello #{name}. it's nice to meet you"
 end
